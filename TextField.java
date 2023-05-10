@@ -11,6 +11,6 @@ public class TextField extends JTextField {
         setFont(new Font("Courier", Font.BOLD, 30));
         setEditable(false);
         setHorizontalAlignment(SwingConstants.RIGHT);
-        setBorder(new LineBorder(Color.BLACK, 2));
+        setBorder(new LineBorder(Color.BLACK, 3));
     }
 }

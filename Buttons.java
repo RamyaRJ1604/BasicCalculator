@@ -5,9 +5,9 @@ import javax.swing.JButton;
 
 public class Buttons extends JButton {
 
-    Color numFColor = Color.decode("#800022");
-    Color funFColor = Color.decode("#FF4F00");
-    Color numBColor = Color.decode("#8D8D8D");
+    Color numFColor = Color.decode("#FFFFFF");
+    Color funFColor = Color.decode("#FC6A03");
+    Color numBColor = Color.decode("#333333");
     JButton[] numButtons;
     JButton[] funButtons;
     JButton addButton, subButton, mulButton, divButton;
